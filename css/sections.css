@@ -1,0 +1,30 @@
+/*About sections*/
+.about-image-container {
+    width: 30%;
+
+}
+
+.about-image-container img {
+    width: 50%;
+}
+.about-description-container {
+    width: 70%;
+    padding: 10%;
+}
+
+.about-description-container p {
+    margin: 2rem 0px;
+    width: 80%;
+}
+
+.skills-list {
+    flex-wrap: wrap;
+    gap: 1rem;
+    width: 70%;
+    margin-top: 2rem;
+}
+
+.skills-label {
+    border-radius: 13px;
+    border: 3px solid;
+}
